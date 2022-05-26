@@ -6,7 +6,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        'sans': ['Hubballi', 'Roboto', 'Arial', 'sans-serif']
+        'sans': ['Open Sans', 'Roboto', 'Arial', 'sans-serif']
       }
     },
   },
